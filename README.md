@@ -35,6 +35,8 @@ python semi-supervised-finetuning.py --sample_rate 0.05 --exp exp_name
 ## Acknowledgement
 
 [Relation-Shape CNN](https://github.com/Yochengliu/Relation-Shape-CNN) 
+
 [Pointnet2_PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch).
-[PointGLR]()
+
+[PointGLR](https://github.com/raoyongming/PointGLR)
 
